@@ -22,6 +22,8 @@ Objetivo foi aprender:
 ## 🗂️ Estruturas
 
 ---
+
+```
 MeuPrimeiroProjetoJS
 |
 | -app.js
@@ -31,15 +33,18 @@ MeuPrimeiroProjetoJS
 | -readme.md
 | -imagem/
 
+```
 ---
 ## Como executar
 
-bash
+```bash
     node app.js
+```
 ## Código
 
-javascript
+```javascript
     console.log("Ola, mundo");
+```
 ## Resultado
 
 ![imagem](./imagem/imagem.png)

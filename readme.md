@@ -8,19 +8,55 @@ Professor: Vitor Lima
 
 ---
 
-## Sobre
+## sobre
 
 Este projeto foi desenvolvido durante a primeira aula de JavaScript.
 
-O objetivo foi aprender:
-- utilizar o VS code;
-- executar o Javascript com Node.js
-- utilizar o Terminal
-- Criar documento utilizando Markdown
+Objetivo foi aprender:
+ -utilizar o VS code;
+ -executar o JavaScript com Node.js
+ -utilizar o Terminsl
+ -criar documento utilizado Markdown
 
 ---
-git status
-git add .
-git status
-git commit -m "Arquivo criado app, operadores, variavel e informação"
-git push
+## 🗂️ Estruturas
+
+---
+MeuPrimeiroProjetoJS
+|
+| -app.js
+| -informacoes.js
+| -operadores.js
+| -variavel.js
+| -readme.md
+| -imagem/
+
+---
+## Como executar
+
+bash
+    node app.js
+## Código
+
+javascript
+    console.log("Ola, mundo");
+## Resultado
+
+![imagem](./imagem/imagem.png)
+
+## Tecnologia
+JavaScript
+Node.js
+Visual Studio Code
+Markdown
+
+## O que aprendi
+Criar arquivo JavaScript.
+Executar programas.
+Utilizar terminal.
+Criar README.
+Instalar extensões.
+Utilizar o Markdown
+GIT.
+Variável
+Operadores

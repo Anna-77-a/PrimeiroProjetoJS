@@ -32,5 +32,9 @@ let quantidadeAluno = 15; // Nome descritivo
 // null
 // let telefone = null
 
-let nome="Vitor";
-nome
+let nome="Anna";
+nome = "Ana";
+nome = "João";
+const PI = 3,14;
+
+console.log(nome)
